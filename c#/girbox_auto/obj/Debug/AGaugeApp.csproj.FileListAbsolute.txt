@@ -1,0 +1,8 @@
+C:\Users\RAKHSH\Desktop\New folder (3)\bin\Debug\AGaugeApp.exe
+C:\Users\RAKHSH\Desktop\New folder (3)\bin\Debug\AGaugeApp.pdb
+C:\Users\RAKHSH\Desktop\New folder (3)\obj\Debug\AGaugeApp.csprojResolveAssemblyReference.cache
+C:\Users\RAKHSH\Desktop\New folder (3)\obj\Debug\AGaugeApp.Form1.resources
+C:\Users\RAKHSH\Desktop\New folder (3)\obj\Debug\AGaugeApp.Properties.Resources.resources
+C:\Users\RAKHSH\Desktop\New folder (3)\obj\Debug\AGaugeApp.csproj.GenerateResource.Cache
+C:\Users\RAKHSH\Desktop\New folder (3)\obj\Debug\AGaugeApp.exe
+C:\Users\RAKHSH\Desktop\New folder (3)\obj\Debug\AGaugeApp.pdb
