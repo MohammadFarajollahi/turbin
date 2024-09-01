@@ -9,7 +9,7 @@ void manual() {
     while (1) {
       stepper1.runSpeed();
       button();
-      if (up_fak == 0) break;
+      if (digitalRead(k1) == 1) break;
     }
   }
 
@@ -21,7 +21,7 @@ void manual() {
     while (1) {
       stepper1.runSpeed();
       button();
-      if (down_fak == 0) break;
+       if (digitalRead(k2) == 1) break;
     }
   }
 
@@ -33,7 +33,7 @@ void manual() {
     while (1) {
       stepper2.runSpeed();
       button();
-      if (right_main == 0) break;
+     if (digitalRead(k3) == 1) break;
     }
   }
 
@@ -45,7 +45,7 @@ void manual() {
     while (1) {
       stepper2.runSpeed();
       button();
-      if (left_main == 0) break;
+       if (digitalRead(k4) == 1) break;
     }
   }
 }

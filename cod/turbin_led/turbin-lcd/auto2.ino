@@ -26,7 +26,7 @@ void auto_2() {
       int move_speed = 1000;
 
       int weld_speed = 0;  //8
-      int weld_delay = 800;
+      int weld_delay = 1000;
       int khal_move = 0;
 
 
@@ -98,7 +98,7 @@ void auto_2() {
       int move_speed = 1000;
 
       int weld_speed = 0;  //20
-      int weld_delay = 800;
+      int weld_delay = 1200;
       int khal_move = 0;
 
 
@@ -196,7 +196,7 @@ void auto_2() {
       int move_speed = 1000;
       
       int weld_speed = 0;  //20
-      int weld_delay = 800;
+      int weld_delay = 900;
       int khal_move = 0;
 
 
